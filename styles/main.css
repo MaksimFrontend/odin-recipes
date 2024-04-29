@@ -1,4 +1,17 @@
 .title {
   color: red;
   background-color: #413f3f;
+  padding: 20px;
+}
+
+.text {
+  color: #c24ef8;
+  background-color: #fababa;
+  padding: 10px;
+}
+
+.menu {
+  background-color: #4ff8f0;
+  color: #4a3fb3;
+  padding: 20px;
 }
